@@ -1,0 +1,30 @@
+/* Element Selector */
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+/* Class Selector */
+.card {
+  width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+/* ID Selector */
+#studentName {
+  font-size: 35px;
+}
+
+/* Grouping Selector */
+h1,
+h2,
+p {
+  margin: 10px;
+}
+
+/* Element Selector */
+img {
+  width: 150px;
+  height: 150px;
+}
